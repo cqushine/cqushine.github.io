@@ -11,8 +11,6 @@ redirect_from:
 
 Libin Lan received his B.S. degree in computer science and technology from Chongqing University of Posts and Telecommunications, in 2008, his M.S. and Ph.D. degrees in computer science from Chongqing University, in 2011 and 2021 respectively. He is currently a Lecturer with the Chongqing University of Technology, and a postdoctoral researcher with the College of Computer Science, Chongqing University, working with Prof. Zhongshi He. His research falls in the areas of machine learning, computer vision, and machine vision. His current research interests cover classification, segmentation, 2D/3D object detection, tracking, medical image analysis, and defect detection. 
 
-# <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
-
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=gRQ3&d=DJ1EQik0yRS2anK1cwSFsFs6aMBaOOrYRzSUPQTm-KE"></script>
 
 <!-- ---
