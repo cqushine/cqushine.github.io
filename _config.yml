@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Libin Lan"
 title_separator          : "-"
-name                     : "&name "Libin Lan"
+name                     : &name "Libin Lan"
 description              : &description "Ph.D., a Lecturer, College of Computer Science and Engineering, Chongqing University of Technology(CQUT)"
 url                      : "https://cqushine.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  DBLP             : "https://dblp.org/pid/237/8024.html"
 
 
 # Reading Files
