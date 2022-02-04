@@ -86,7 +86,7 @@ author:
   location         : "Chongqing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "lanlbn@cqut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Libin-Lan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
