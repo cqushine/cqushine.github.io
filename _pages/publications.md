@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## 2021
-* <b>CoANet: Connectivity Attention Network for Road Extraction from Satellite Imagery</b>. <br>
-<b>Jie Mei</b>, Rou-Jing Li, Wang Gao, Ming-Ming Cheng. <br>
-<i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
+* <b>Recurrent generative adversarial networks for unsupervised WCE video summarization</b>. <br>
+<b>Libin Lan</b>, Chunxiao Ye. <br>
+<i>Knowledge-Based Systems (**KBS**)</i>, 2021. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TIP_CoANet/2021_TIP_CoANet.pdf)
 [[Project]](https://jiemei.xyz/publications/CoANet)
 [[Code]](https://github.com/mj129/CoANet)
