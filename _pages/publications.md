@@ -10,8 +10,7 @@ author_profile: true
 <b>Libin Lan</b>, Chunxiao Ye. <br>
 <i>Knowledge-Based Systems (**KBS**)</i>, 2021. <br>
 [[PDF]](https://cqushine.github.io/files/Adv-Ptr-Der-SUM/2021-KBS-Adv-Ptr-Der-SUM.pdf)
-#[[Project]](https://jiemei.xyz/publications/CoANet)
-#[[Code]](https://github.com/mj129/CoANet)
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
