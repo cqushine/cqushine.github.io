@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Libin Lan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "&name "Libin Lan" # "&name "Your Name"
 description              : &description "personal description"
 url                      : https://cqushine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D., a Lecturer, College of Computer Science and Engineering, Chongqing University of Technology(CQUT)"
   location         : "Chongqing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "lanlbn@cqut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Libin-Lan" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
