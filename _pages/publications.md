@@ -10,6 +10,16 @@ author_profile: true
 <b>Libin Lan</b>, Chunxiao Ye. <br>
 <i>Knowledge-Based Systems (**KBS**)</i>, 2021. <br>
 [[PDF]](https://cqushine.github.io/files/Adv-Ptr-Der-SUM/2021-KBS-Adv-Ptr-Der-SUM.pdf)
+[[Link]](https://doi.org/10.1016/j.knosys.2021.106971)
+[[Code]](https://github.com/cqushine/Adv-Ptr-Der-SUM)
+
+## 2020
+* <b>Deep Convolutional Neural Networks for WCE Abnormality Detection: CNN Architecture, Region Proposal and Transfer Learning</b>. <br>
+<b>Libin Lan</b>, Chunxiao Ye, Chengliang Wang, and Shangbo Zhou <br>
+<i>IEEE ACCESS</i>, 2021. <br>
+[[PDF]](https://cqushine.github.io/files/Adv-Ptr-Der-SUM/2021-KBS-Adv-Ptr-Der-SUM.pdf)
+[[Link]](https://doi.org/10.1016/j.knosys.2021.106971)
+[[Code]](https://github.com/cqushine/Adv-Ptr-Der-SUM)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
