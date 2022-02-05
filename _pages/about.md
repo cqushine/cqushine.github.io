@@ -16,8 +16,8 @@ News
 
 Service and Activities
 ------
-<li><font color="#800000"><b><span style="font-family: Calibri">IEEE Member. </span></b></font></li>
-<li><font color="#800000"><b><span style="font-family: Calibri">CCF Member. </span></b></font></li>
+<li><font color="#800000"><b><span style="font-family: Calibri">IEEE Member, CCF Member. </span></b></font></li>
+<!--<li><font color="#800000"><b><span style="font-family: Calibri">CCF Member. </span></b></font></li>-->
 <!-- <li><font color="#800000"><b><span style="font-family: Calibri">Journal reviewer: IEEE ACCESS. </span></b></font></li> -->
 
 Technical Strengths \& Language Skills
