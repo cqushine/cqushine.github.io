@@ -13,3 +13,15 @@ Libin Lan received his B.S. degree in computer science and technology from Chong
 News
 ======
 <li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper are recommended to JCST. </span></b></font></li>
+
+Service and Activities
+------
+<li><font color="#800000"><b><span style="font-family: Calibri">IEEE Member. </span></b></font></li>
+<li><font color="#800000"><b><span style="font-family: Calibri">CCF Member. </span></b></font></li>
+<!-- <li><font color="#800000"><b><span style="font-family: Calibri">Journal reviewer: IEEE ACCESS. </span></b></font></li> -->
+
+Technical Strengths $\&$ Language Skills
+------
+<li><font color="#800000"><b><span style="font-family: Calibri">Programming Languages: Matlab, Python, C/C++. </span></b></font></li>
+<li><font color="#800000"><b><span style="font-family: Calibri">Deep Learning Packages: Caffe, Tensorflow, Pytorch. </span></b></font></li>
+<li><font color="#800000"><b><span style="font-family: Calibri">English: College English Test Band 4(CET4)(2005) and Band 6(CET6)(2006). </span></b></font></li>
