@@ -12,4 +12,4 @@ Libin Lan received his B.S. degree in computer science and technology from Chong
 
 News
 ======
-<sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper are recommended to JCST. </span></b></font>
+<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper are recommended to JCST. </span></b></font></li>
