@@ -24,4 +24,4 @@ Technical Strengths \& Language Skills
 ------
 <li><font color="#800000"><b><span style="font-family: Calibri">Programming Languages: Matlab, Python, C/C++. </span></b></font></li>
 <li><font color="#800000"><b><span style="font-family: Calibri">Deep Learning Packages: Caffe, Tensorflow, Pytorch. </span></b></font></li>
-<li><font color="#800000"><b><span style="font-family: Calibri">English: College English Test Band 4(CET4)(2005) and Band 6(CET6)(2006). </span></b></font></li>
+<li><font color="#800000"><b><span style="font-family: Calibri">English: College English Test Band 4(CET4, 2005)and Band 6(CET6, 2006). </span></b></font></li>
