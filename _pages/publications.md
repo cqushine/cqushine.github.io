@@ -30,6 +30,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-
-<span id="busuanzi_container_site_pv">Visited <span id="busuanzi_value_site_pv"></span> times</span>
