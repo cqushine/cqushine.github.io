@@ -13,7 +13,6 @@ Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, Xing Wu. <br>
 [[Link]](https://doi.org/10.1016/j.cmpb.2021.106189)<br>
 
 * <b>Recurrent Generative Adversarial Networks for Unsupervised WCE Video Summarization</b>.<br>
-<!--* <span style="text-transform: capitalize;"><b>Recurrent generative adversarial networks for unsupervised WCE video summarization</b></span>. <br>-->
 <b>Libin Lan</b>, Chunxiao Ye. <br>
 <i>Knowledge-Based Systems (**KBS**)</i>, 2021. <br>
 [[PDF]](https://cqushine.github.io/files/Adv-Ptr-Der-SUM/2021-KBS-Adv-Ptr-Der-SUM.pdf)
@@ -36,3 +35,4 @@ Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, Xing Wu. <br>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+<!--* <span style="text-transform: capitalize;"><b>Recurrent generative adversarial networks for unsupervised WCE video summarization</b></span>. <br>-->
