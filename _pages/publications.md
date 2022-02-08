@@ -8,7 +8,6 @@ author_profile: true
 ## 2021
 
 * <b>Deep Learning for Registration of Region of Interest in Consecutive Wireless Capsule Endoscopy Frames</b>.<br>
-<!--* <span style="text-transform: capitalize;"><b>Recurrent generative adversarial networks for unsupervised WCE video summarization</b></span>. <br>-->
 Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, Xing Wu. <br>
 <i>Computer Methods and Programs in Biomedicine (**CMPB**)</i>, 2021. <br>
 [[Link]](https://doi.org/10.1016/j.cmpb.2021.106189)<br>
