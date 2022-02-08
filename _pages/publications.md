@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2021
-* <b>Recurrent Generative Adversarial Networks for Unsupervised WCE Video Summarization</b> <br>
+* <b>Recurrent Generative Adversarial Networks for Unsupervised WCE Video Summarization</b>.<br>
 <!--* <span style="text-transform: capitalize;"><b>Recurrent generative adversarial networks for unsupervised WCE video summarization</b></span>. <br>-->
 <b>Libin Lan</b>, Chunxiao Ye. <br>
 <i>Knowledge-Based Systems (**KBS**)</i>, 2021. <br>
@@ -15,7 +15,7 @@ author_profile: true
 [[Code]](https://github.com/cqushine/Adv-Ptr-Der-SUM)
 
 ## 2019
-* <b>Deep Convolutional Neural Networks for WCE Abnormality Detection: CNN Architecture, Region Proposal and Transfer Learning</b>. <br>
+* <b>Deep Convolutional Neural Networks for WCE Abnormality Detection: CNN Architecture, Region Proposal and Transfer Learning</b>.<br>
 <b>Libin Lan</b>, Chunxiao Ye, Chengliang Wang, and Shangbo Zhou <br>
 <i>IEEE ACCESS</i>, 2019. <br>
 [[PDF]](https://cqushine.github.io/files/2019-Access-CascadeProposal/2019-Access-CascadeProposal.pdf)
