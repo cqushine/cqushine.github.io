@@ -8,7 +8,7 @@ author_profile: true
 ## 2021
 
 * <b>Deep Learning for Registration of Region of Interest in Consecutive Wireless Capsule Endoscopy Frames</b>.<br>
-Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, Xing Wu. <br>
+Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, and Xing Wu. <br>
 <i>Computer Methods and Programs in Biomedicine (**CMPB**)</i>, 2021. <br>
 [[Link]](https://doi.org/10.1016/j.cmpb.2021.106189)<br>
 
@@ -21,7 +21,7 @@ Chao Liao, Chengliang Wang, Jianying Bai, <b>Libin Lan</b>, Xing Wu. <br>
 
 ## 2019
 * <b>Deep Convolutional Neural Networks for WCE Abnormality Detection: CNN Architecture, Region Proposal and Transfer Learning</b>.<br>
-<b>Libin Lan</b>, Chunxiao Ye, Chengliang Wang, and Shangbo Zhou <br>
+<b>Libin Lan</b>, Chunxiao Ye, Chengliang Wang, and Shangbo Zhou. <br>
 <i>IEEE ACCESS</i>, 2019. <br>
 [[PDF]](https://lanlbn.github.io/files/2019-Access-CascadeProposal/2019-Access-CascadeProposal.pdf)
 
