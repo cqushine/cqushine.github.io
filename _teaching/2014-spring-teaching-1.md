@@ -7,6 +7,8 @@ date: 2022-02-15
 location: "City, Country" 
 ---
 
+Undergraduate course: Machine Learning, Deep Learning, Programming Python
+
 
 Machine Learning
 ======
