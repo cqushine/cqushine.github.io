@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate course:"
 type: "Undergraduate course"
 permalink: /_teaching/2014-spring-teaching-1
 venue: "University 1, Department"
