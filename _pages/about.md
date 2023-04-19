@@ -14,10 +14,10 @@ News
 ======
 <!--<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper is recommended to JCST. </span></b></font></li> -->
 
-<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper has just have accepted by Multimedia Tools and Applications. </span></b></font></li>
+<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper has just accepted by Multimedia Tools and Applications. </span></b></font></li>
 <br>
 
-<li><sup><span style="color:blue;"><strong>通知</strong></span></sup> 4/19/2023: <font color="#800000"><b><span style="font-family: Calibri">今年研究生已招满. </span></b></font></li>
+<li><sup><span style="color:blue;"><strong>通知</strong></span></sup> 4/19/2023: <font color=" #0000FF"><b><span style="font-family: Calibri">今年研究生已招满. </span></b></font></li>
 <br>
 
 <!--Service and Activities -->
