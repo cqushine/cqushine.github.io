@@ -8,7 +8,7 @@ author_profile: true
 ## 2022
 
 * <b>CGTracker: Center Graph Network for One-Stage Multi-Pedestrian-Object Detection and Tracking</b>.<br>
-Xin Feng, Haoming Wu, Yihao Yin, <b>Libin Lan</b>. <br>
+Xin Feng, Haoming Wu, Yihao Yin, and <b>Libin Lan</b>. <br>
 <i>Journal of Computer Science and Technology (**JCST**)</i>, 2022. <br>
 [[Link]](https://link.springer.com/article/10.1007/s11390-022-2204-8)<br>
 
