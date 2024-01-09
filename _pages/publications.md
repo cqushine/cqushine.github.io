@@ -8,7 +8,7 @@ author_profile: true
 ## 2023
 
 * <b>De-redundancy in Wireless Capsule Endoscopy Video Sequences Using Correspondence Matching and Motion Analysis</b>.<br>
-<b>Libin Lan</b>, Chunxiao Ye, Chao Liao, Chengliang Wang, Xin Feng. <br>
+<b>Libin Lan</b>, Chunxiao Ye, Chao Liao, Chengliang Wang, and Xin Feng. <br>
 <i>Multimedia Tools and Applications (**MTA**)</i>, 2023. <br>
 [[Link]](https://link.springer.com/article/10.1007/s11042-023-15530-7)<br>
 
