@@ -14,6 +14,7 @@ News
 ======
 <!--<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 12/30/2021: <font color="#800000"><b><span style="font-family: Calibri">one paper is recommended to JCST. </span></b></font></li> -->
 
+<li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 1/6/2024: <font color=" #FF0000"><b><span style="font-family: Calibri">one paper was accepted to  Biomedical Engineering / Biomedizinische Technik. </span></b></font></li>
 
 <li><sup><span style="color:red;"><strong>NEW</strong></span></sup> 4/19/2023: <font color=" #FF0000"><b><span style="font-family: Calibri">one paper has just been accepted by Multimedia Tools and Applications. </span></b></font></li>
 
