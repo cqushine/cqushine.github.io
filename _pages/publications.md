@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+* <b>Self-supervised Context-aware Correlation Filter for Robust Landmark Tracking in Liver Ultrasound Sequences</b>.<br>
+Lin Ma, Junjie Wang, Shu Gong, <b>Libin Lan</b>, Li Geng, Siping Wang, and Xin Feng <br>
+<i>Biomedical Engineering / Biomedizinische Technik (**BMT**)</i>, 2024. <br>
+[[Link]](https://doi.org/10.1515/bmt-2022-0489)<br>
+
+
 ## 2023
 
 * <b>De-redundancy in Wireless Capsule Endoscopy Video Sequences Using Correspondence Matching and Motion Analysis</b>.<br>
