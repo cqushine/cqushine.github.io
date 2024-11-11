@@ -7,6 +7,30 @@ author_profile: true
 
 ## 2024
 
+* <b>DSSAU-Net: U-Shaped Hybrid Network for Pubic Symphysis and Fetal Head Segmentation</b>.<br>
+Zunhui Xia, Hongxing Li, and <b> Libin Lan </b>. <br>
+<i> 27th International Conference on Medical Image Computing
+and Computer Assisted Intervention Workshop on IUGC 2024 (**MICCAI2024 workshop on IUGC 2024**)</i>, 2024. <br>
+[Link] <br>
+
+
+* <b>Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution</b>.<br>
+Pengzhou Cai, Lu Jiang, Yanxin Li, Xiaojuan Liu, and <b> Libin Lan </b>. <br>
+<i> 31th International Conference on MultiMedia Modeling (**MMM2025**)</i>, 2024. <br>
+[[Link]]( https://arxiv.org/abs/2410.10352)<br>
+
+
+* <b>PSFHS Challenge Report: Pubic Symphysis and Fetal Head Segmentation from Intrapartum Ultrasound Images</b>.<br>
+Jieyun Bai, Zihao Zhou, Zhanhong Ou, Gregor Koehler, Raphael Stock, Klaus Maier-Hein, Marawan Elbatel, Robert Martí, Xiaomeng Li, Yaoyang Qiu, Panjie Gou, Gongping Chen, Lei Zhao, Jianxun Zhang, Yu Dai, Fangyijie Wang, Guénolé Silvestre, Kathleen Curran, Hongkun Sun, Jing Xu, Pengzhou Cai, Lu Jiang, <b> Libin Lan </b>, Dong Ni, Mei Zhong, Gaowen Chen, Víctor M. Campello, Yaosheng Lu, and Karim Lekadir. <br>
+<i> Medical Image Analysis (**MedIA**)</i>, 2024. <br>
+[[Link]]( https://arxiv.org/abs/2409.10980)<br>
+
+* <b>Lesion Region Inpainting: An Approach for Pseudo-Healthy Image Synthesis in Intracranial Infection Imaging</b>.<br>
+Xiaojuan Liu, Cong Xiang, Shu Gong, <b>Libin Lan</b>, Chuan Li, Hanguang Xiao, and Zhi Liu. <br>
+<i> Frontiers in Microbiology (**FMICB**)</i>, 2024. <br>
+[[Link]]( https://doi.org/10.3389/fmicb.2024.1453870)<br>
+
+
 * <b>Self-Supervised Context-Aware Correlation Filter for Robust Landmark Tracking in Liver Ultrasound Sequences</b>.<br>
 Lin Ma, Junjie Wang, Shu Gong, <b>Libin Lan</b>, Li Geng, Siping Wang, and Xin Feng. <br>
 <i>Biomedical Engineering / Biomedizinische Technik (**BMT**)</i>, 2024. <br>
