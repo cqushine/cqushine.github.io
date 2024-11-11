@@ -26,7 +26,7 @@ Jieyun Bai, Zihao Zhou, Zhanhong Ou, Gregor Koehler, Raphael Stock, Klaus Maier-
 [[Link]]( https://arxiv.org/abs/2409.10980)<br>
 
 * <b>Lesion Region Inpainting: An Approach for Pseudo-Healthy Image Synthesis in Intracranial Infection Imaging</b>.<br>
-Xiaojuan Liu, Cong Xiang, Shu Gong, <b>Libin Lan</b>, Chuan Li, Hanguang Xiao, and Zhi Liu. <br>
+Xiaojuan Liu, Cong Xiang, <b>Libin Lan</b>, Chuan Li, Hanguang Xiao, and Zhi Liu. <br>
 <i> Frontiers in Microbiology (**FMICB**)</i>, 2024. <br>
 [[Link]]( https://doi.org/10.3389/fmicb.2024.1453870)<br>
 
