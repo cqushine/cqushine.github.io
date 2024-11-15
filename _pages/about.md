@@ -42,5 +42,5 @@ News
 <br>
 <br>
 <body>
-<a href='https://clustrmaps.com/site/1bmp6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=268&t=m&d=zZoQrA7dtzVVit3KMJaJwRYNVJOYWAGdGSfkGgm9SuE&co=2d78ad&ct=ffffff'/></a>
+<a href='https://clustrmaps.com/site/1bmp6'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=268&t=m&d=zZoQrA7dtzVVit3KMJaJwRYNVJOYWAGdGSfkGgm9SuE&co=2d78ad&ct=ffffff'/, width = 600></a>
 </body>
