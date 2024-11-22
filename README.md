@@ -1,1 +1,1 @@
-[Libin Lan's HomePage](https://lanlbn.github.io/)
+[Libin Lan's HomePage](https://lan.github.io/)
